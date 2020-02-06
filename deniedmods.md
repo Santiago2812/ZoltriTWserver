@@ -70,7 +70,8 @@ Simple robots - Not Thematically Appropriate
 Simply magic - Performance Issues/Underdeveloped   
 Thaumaturgical Knowledge - Only adds 1 thing  
 Thaumic Bases - Unbalanced  
-Tinker's construct - Not Thematically Appropriate  
+Tinker's construct - Not Thematically Appropriate
+Totemic - Does not add content (almost nothing) 
 Waystones/teleport mod - Meaningless  
 Electroblob's Wizardry - Performance Issues  
 </details>  
