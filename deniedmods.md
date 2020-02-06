@@ -69,7 +69,8 @@ Silent's Gems - Unbalanced
 Simple robots - Not Thematically Appropriate  
 Simply magic - Performance Issues/Underdeveloped   
 Thaumaturgical Knowledge - Only adds 1 thing  
-Thaumic Bases - Unbalanced  
+Thaumic Bases - Unbalanced
+Thaumic Energistics - Advanced energistics is a dependency
 Tinker's construct - Not Thematically Appropriate  
 Waystones/teleport mod - Meaningless  
 Electroblob's Wizardry - Performance Issues  
